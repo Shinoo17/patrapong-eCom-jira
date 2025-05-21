@@ -17,6 +17,9 @@ function App() {
         </a>
       </div>
       <h1>E-com System 1.0.1 (Add login page) (Update label cart button)</h1>
+      <h2>
+        <a href="/login">Login</a>
+      </h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
