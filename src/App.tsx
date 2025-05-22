@@ -16,6 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
+      <h1>Add Items</h1>
       <h1>E-com System 1.0.1 (Add login page) (Update label cart button)</h1>
       <h2>
         <a href="/login">Login</a>
