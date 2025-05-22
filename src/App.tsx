@@ -21,6 +21,7 @@ function App() {
         <a href="/login">Login</a>
       </h2>
       <div>Fix bug: API call not working @2.0.0</div>
+      <div>Some product page</div>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
