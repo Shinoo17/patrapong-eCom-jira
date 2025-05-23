@@ -17,7 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Add Items <span>remove Item</span></h1>
-      <h1>E-com System 4.0.0 (Add login page) (Update label cart button)</h1>
+      <h1>E-com System 4.0.1 (Add login page) (Update label cart button)</h1>
       <h2>
         <a href="/login">Login</a>
       </h2>
