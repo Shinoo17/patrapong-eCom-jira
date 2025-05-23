@@ -27,11 +27,11 @@ jobs:
           path: 'dist'
       - uses: actions/deploy-pages@v4
 
-      - name: Create github deployment
-        id: create-deploy
+      - name: Create GitHub deployment
+        id: create_deploy
         uses: chrnorm/deployment-action@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ github.token }}
           environment: production
           description: "Deploy Pages for release ${{ github.ref_name }}"
           

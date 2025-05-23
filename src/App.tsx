@@ -17,7 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Add Items <span>remove Item</span></h1>
-      <h1>E-com System 4.2.0 (Automate deploy with JIRA)</h1>
+      <h1>E-com System 4.2.1 (Automate deploy with JIRA)</h1>
       <h2>
         <a href="/login">Login</a>
       </h2>
