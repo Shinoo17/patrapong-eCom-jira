@@ -17,13 +17,14 @@ function App() {
         </a>
       </div>
       <h1>Add Items <span>remove Item</span></h1>
-      <h1>E-com System 1.0.1 (Add login page) (Update label cart button)</h1>
+      <h1>E-com System 4.1.0 (Automate deploy)</h1>
       <h2>
         <a href="/login">Login</a>
       </h2>
       <div>Fix bug: API call not working @2.0.0</div>
       <div>Hotfix: something</div>
       <div>Some product page</div>
+      <div>Some automate JIRA ticket</div>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
