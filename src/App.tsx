@@ -25,6 +25,7 @@ function App() {
       <div>Hotfix: something</div>
       <div>Some product page</div>
       <div>Some automate JIRA ticket</div>
+      <div>Awesome feature: auto deploy</div>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
